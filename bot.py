@@ -11,9 +11,6 @@ Press Ctrl-C on the command line or send a signal to the process to stop the
 bot.
 """
 import time
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
 import logging
 import time
 import feedparser
